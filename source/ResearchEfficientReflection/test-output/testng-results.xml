@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="12" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="42800" started-at="2019-04-29T09:49:16Z" finished-at="2019-04-29T09:49:59Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="42800" started-at="2019-04-29T09:49:16Z" finished-at="2019-04-29T09:49:59Z">
+      <class name="buwai.research.java.efficientreflection.TestClassReflection">
+        <test-method status="PASS" signature="before()[pri:0, instance:buwai.research.java.efficientreflection.TestClassReflection@31f924f5]" name="before" is-config="true" duration-ms="0" started-at="2019-04-29T09:49:16Z" finished-at="2019-04-29T09:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testClassForName()[pri:0, instance:buwai.research.java.efficientreflection.TestClassReflection@31f924f5]" name="testClassForName" duration-ms="42795" started-at="2019-04-29T09:49:16Z" finished-at="2019-04-29T09:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClassForName -->
+        <test-method status="PASS" signature="testClassGet()[pri:0, instance:buwai.research.java.efficientreflection.TestClassReflection@31f924f5]" name="testClassGet" duration-ms="0" started-at="2019-04-29T09:49:59Z" finished-at="2019-04-29T09:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClassGet -->
+      </class> <!-- buwai.research.java.efficientreflection.TestClassReflection -->
+      <class name="buwai.research.java.efficientreflection.TestMethodReflection">
+        <test-method status="PASS" signature="testDeclaredMethod()[pri:0, instance:buwai.research.java.efficientreflection.TestMethodReflection@5579bb86]" name="testDeclaredMethod" duration-ms="0" started-at="2019-04-29T09:49:59Z" finished-at="2019-04-29T09:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeclaredMethod -->
+        <test-method status="PASS" signature="testInvokeWithAccessible()[pri:0, instance:buwai.research.java.efficientreflection.TestMethodReflection@5579bb86]" name="testInvokeWithAccessible" duration-ms="0" started-at="2019-04-29T09:49:59Z" finished-at="2019-04-29T09:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvokeWithAccessible -->
+        <test-method status="PASS" signature="testInvoke()[pri:0, instance:buwai.research.java.efficientreflection.TestMethodReflection@5579bb86]" name="testInvoke" duration-ms="0" started-at="2019-04-29T09:49:59Z" finished-at="2019-04-29T09:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvoke -->
+        <test-method status="PASS" signature="testNormalInvoke()[pri:0, instance:buwai.research.java.efficientreflection.TestMethodReflection@5579bb86]" name="testNormalInvoke" duration-ms="1" started-at="2019-04-29T09:49:59Z" finished-at="2019-04-29T09:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNormalInvoke -->
+      </class> <!-- buwai.research.java.efficientreflection.TestMethodReflection -->
+      <class name="buwai.research.java.efficientreflection.TestNewInstanceReflection">
+        <test-method status="PASS" signature="testNew()[pri:0, instance:buwai.research.java.efficientreflection.TestNewInstanceReflection@5204062d]" name="testNew" duration-ms="0" started-at="2019-04-29T09:49:59Z" finished-at="2019-04-29T09:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNew -->
+        <test-method status="PASS" signature="testNewInstance1()[pri:0, instance:buwai.research.java.efficientreflection.TestNewInstanceReflection@5204062d]" name="testNewInstance1" duration-ms="1" started-at="2019-04-29T09:49:59Z" finished-at="2019-04-29T09:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewInstance1 -->
+        <test-method status="PASS" signature="testNewInstance2()[pri:0, instance:buwai.research.java.efficientreflection.TestNewInstanceReflection@5204062d]" name="testNewInstance2" duration-ms="0" started-at="2019-04-29T09:49:59Z" finished-at="2019-04-29T09:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewInstance2 -->
+      </class> <!-- buwai.research.java.efficientreflection.TestNewInstanceReflection -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
